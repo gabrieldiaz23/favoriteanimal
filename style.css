@@ -1,0 +1,13 @@
+h1 {
+    background: gray;
+    color: floralwhite;
+    font-style: oblique;
+    margin: 5%;
+}
+
+p {
+    margin: 15%;
+    color: mediumseagreen;
+    font-style: italic, bold;
+}
+
